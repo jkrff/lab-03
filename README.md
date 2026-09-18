@@ -15,3 +15,6 @@ List any resources used here, or simply put `N/A` if not applicable.
 |--------------|----------|
 | `kalyn luc`  | `kalyn1` |
 | `<Add more>` | `<CCID>` |
+
+## Running the code 
+Click a city and change either city name or province then click update city to update the city 
